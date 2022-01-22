@@ -1,0 +1,3 @@
+test:
+  url:
+    http://client-app-remote:8080
