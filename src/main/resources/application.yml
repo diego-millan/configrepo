@@ -1,1 +1,6 @@
-
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/diego-millan/repoconfig
